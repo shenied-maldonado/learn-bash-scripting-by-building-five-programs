@@ -178,3 +178,4 @@ $(( I + 4 ))
 __vsc_prompt_cmd_original
 echo$(( I + 4 ))
 echo $(( I + 4 ))
+echo $I
