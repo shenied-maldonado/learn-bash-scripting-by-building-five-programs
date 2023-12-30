@@ -213,3 +213,8 @@ help test
 ./bingo.sh
 ./bingo.sh
 ./bingo.sh
+./bingo.sh
+./bingo.sh
+clear
+touch forture.sh
+touch fortune.sh
