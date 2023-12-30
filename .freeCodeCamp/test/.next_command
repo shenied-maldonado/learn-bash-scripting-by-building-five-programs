@@ -231,3 +231,5 @@ declare -p
 declare -p ARR
 ./fortune.sh
 help
+man function
+help function
