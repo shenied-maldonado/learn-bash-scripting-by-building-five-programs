@@ -194,3 +194,4 @@ echo $(( RANDOM % 75 + 1 ))
 ./countdown.sh
 ./bingo.sh
 ./bingo.sh
+help let
