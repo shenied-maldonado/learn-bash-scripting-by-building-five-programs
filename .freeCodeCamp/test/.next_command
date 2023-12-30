@@ -155,3 +155,6 @@ sleep 3
 help while
 ./countdown.sh 5
 touch bingo.sh
+cmmod -x bingo.sh
+chmod -x bingo.sh
+chmod +x bingo.sh
