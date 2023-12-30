@@ -105,3 +105,4 @@ man echo
 ./questionnaire.sh
 clear
 touch countdown.sh
+chmod +x countdown.sh
