@@ -83,3 +83,4 @@ cat /proc/self/environ
 echo -n fae13ce4-8a3b-4ad9-be6b-e713be85afcf
 touch questionnaire.sh
 sh questionnaire.sh
+bash questionnaire.sh
