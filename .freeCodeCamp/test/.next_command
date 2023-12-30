@@ -240,3 +240,4 @@ man until
 help until
 help test
 help [[
+./fortune.sh hi
