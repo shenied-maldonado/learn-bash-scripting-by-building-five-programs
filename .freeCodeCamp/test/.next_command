@@ -130,3 +130,4 @@ echo $?
 echo $?
 [[ 4 -ge 5 ]]
 [[ 10 -ne 5 ]]
+bad_command
