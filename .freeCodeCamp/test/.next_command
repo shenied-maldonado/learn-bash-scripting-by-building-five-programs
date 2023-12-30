@@ -224,3 +224,5 @@ ARR=("a" "b" "c")
 echo %{ARR[1]}
 echo $%{ARR[1]}
 echo ${ARR[1]}
+echo $@
+echo ${ARR[*]}
