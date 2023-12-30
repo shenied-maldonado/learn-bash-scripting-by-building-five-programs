@@ -94,3 +94,4 @@ ls --color=auto -l
 ./questionnaire.sh
 ./questionnaire.sh
 echo Hello $NAME
+./questionnaire.sh
