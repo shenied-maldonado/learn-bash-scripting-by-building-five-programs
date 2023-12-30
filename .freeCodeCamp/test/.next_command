@@ -226,3 +226,6 @@ echo $%{ARR[1]}
 echo ${ARR[1]}
 echo $@
 echo ${ARR[*]}
+echo ${ARR[@]}
+declare -p
+declare -p ARR
