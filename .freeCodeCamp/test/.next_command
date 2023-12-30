@@ -243,3 +243,4 @@ help [[
 ./fortune.sh hi
 help [[
 [[ hello == hello ]]
+[[ hello == world ]]
