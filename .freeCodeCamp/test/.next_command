@@ -168,3 +168,4 @@ echo $RANDOM
 ./bingo.sh
 ./bingo.sh
 I=0
+echo $I
