@@ -118,3 +118,4 @@ help if
 ./countdown.sh arg4
 ./countdown.sh arg1
 ./countdown.sh arg4
+./countdown.sh 4
