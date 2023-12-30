@@ -143,3 +143,4 @@ help [[
 ./countdown.sh 1
 ./countdown.sh -2
 help
+./countdown.sh 10
