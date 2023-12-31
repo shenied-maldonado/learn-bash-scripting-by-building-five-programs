@@ -260,3 +260,4 @@ echo $VAR
 ./fortune.sh
 clear
 touch five.sh
+chmod +x five.sh
